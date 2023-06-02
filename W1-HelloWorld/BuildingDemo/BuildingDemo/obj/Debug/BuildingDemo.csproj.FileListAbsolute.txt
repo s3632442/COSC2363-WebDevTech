@@ -1,0 +1,8 @@
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\BuildingDemo\BuildingDemo\bin\Debug\BuildingDemo.exe.config
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\BuildingDemo\BuildingDemo\bin\Debug\BuildingDemo.exe
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\BuildingDemo\BuildingDemo\bin\Debug\BuildingDemo.pdb
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\BuildingDemo\BuildingDemo\obj\Debug\BuildingDemo.csproj.AssemblyReference.cache
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\BuildingDemo\BuildingDemo\obj\Debug\BuildingDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\BuildingDemo\BuildingDemo\obj\Debug\BuildingDemo.csproj.CoreCompileInputs.cache
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\BuildingDemo\BuildingDemo\obj\Debug\BuildingDemo.exe
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\BuildingDemo\BuildingDemo\obj\Debug\BuildingDemo.pdb

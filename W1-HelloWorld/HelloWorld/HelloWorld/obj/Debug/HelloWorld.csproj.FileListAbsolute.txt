@@ -1,0 +1,8 @@
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

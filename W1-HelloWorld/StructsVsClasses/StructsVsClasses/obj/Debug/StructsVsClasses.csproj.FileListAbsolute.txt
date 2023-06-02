@@ -1,0 +1,8 @@
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\StructsVsClasses\StructsVsClasses\obj\Debug\StructsVsClasses.csproj.AssemblyReference.cache
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\StructsVsClasses\StructsVsClasses\obj\Debug\StructsVsClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\StructsVsClasses\StructsVsClasses\obj\Debug\StructsVsClasses.csproj.CoreCompileInputs.cache
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\StructsVsClasses\StructsVsClasses\bin\Debug\StructsVsClasses.exe.config
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\StructsVsClasses\StructsVsClasses\bin\Debug\StructsVsClasses.exe
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\StructsVsClasses\StructsVsClasses\bin\Debug\StructsVsClasses.pdb
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\StructsVsClasses\StructsVsClasses\obj\Debug\StructsVsClasses.exe
+C:\Users\motta\dev\rmit\WebDevTech\W1-HelloWorld\StructsVsClasses\StructsVsClasses\obj\Debug\StructsVsClasses.pdb
