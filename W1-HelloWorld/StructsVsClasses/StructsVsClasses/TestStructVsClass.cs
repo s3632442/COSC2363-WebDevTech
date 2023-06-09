@@ -14,6 +14,7 @@ namespace StructsVsClasses
         public TestStructVsClass()
         {
             //Class = Pass by Ref
+            //does support inheritance
 
             //StructsVsClasses.Classes.Dog fido = new StructsVsClasses.Classes.Dog("Fido");
             //StructsVsClasses.Classes.Dog rex = new StructsVsClasses.Classes.Dog("Rex");
@@ -31,7 +32,7 @@ namespace StructsVsClasses
 
 
             //Structs = Pass by Value
-
+            //does not support inheritance
             StructsVsClasses.Structs.Dog fido = new StructsVsClasses.Structs.Dog("Fido");
             StructsVsClasses.Structs.Dog rex = new StructsVsClasses.Structs.Dog("Rex");
 
